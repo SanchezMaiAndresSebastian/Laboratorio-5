@@ -33,10 +33,15 @@
 
 Circuito 1
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/1.jpg) 
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/2.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/3.png) 
 
 Circuito 2
 
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/4.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/5.png) 
 
 ### 5.	EXPLICACIÓN
 
