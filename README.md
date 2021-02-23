@@ -45,6 +45,20 @@ Circuito 2
 
 ### 5.	EXPLICACIÓN
 
+Ejemplos de calculo
+
+Circuito 1
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/6.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/7.png) 
+
+Circuito 2
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/8.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/9.png) 
+
 #### 5.1.
 
 #### 5.2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
@@ -57,7 +71,8 @@ La bobina almacena corriente, mientras que el capacitor almacena voltaje.
 
 #### 5.4.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
-Ocurriría lo mismo que se observó en la práctica, debido  a que 
+Ocurriría lo mismo que se observó en la práctica, debido a que tiene las misma caracterízticas que se tiene en el inductor y el capacitor
+
 
 #### 5.5.- ¿Qué son los valores eficaces de voltaje y corriente?
 
@@ -90,3 +105,7 @@ El valor eficaz es el equivalente en DC del valor pico en la corriente alterna, 
 
 
 ### 11.	 ANEXOS
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/10.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/11.png) 
