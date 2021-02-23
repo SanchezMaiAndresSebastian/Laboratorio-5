@@ -14,7 +14,7 @@
 
 ### 2.	MARCO TEÓRICO 
 
-
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/1.png) 
 
 ### 3.	LISTA DE COMPONENTES
 
