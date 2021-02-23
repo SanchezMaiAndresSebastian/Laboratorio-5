@@ -31,7 +31,12 @@
  
 ### 4. DIAGRAMA
 
+Circuito 1
+
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/31.jpg) 
+
+Circuito 2
+
 
 ### 5.	EXPLICACIÓN
 
