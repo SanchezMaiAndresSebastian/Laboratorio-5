@@ -25,7 +25,7 @@
 | 1 | Protoboard |
 | 1 | Multímetro |
 | 1 | Cables conductores |
-| 1 | Resistencias de 100 Ω |
+| 2 | Resistencias de 100 Ω |
 | 2 | Bobinas 10 µF |
 | 2 | Capacitores 100 mH |
  
