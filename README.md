@@ -108,4 +108,4 @@ El valor eficaz es el equivalente en DC del valor pico en la corriente alterna, 
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/10.png) 
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/11.png) 
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/12.png) 
