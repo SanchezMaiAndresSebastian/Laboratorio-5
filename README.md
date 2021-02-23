@@ -45,92 +45,43 @@ Circuito 2
 
 ### 5.	EXPLICACIÓN
 
+#### 5.1.
 
-__5.1__ Transforme a su forma polar:
+#### 5.2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/14.png) 
+El capacitor se comporta como circuito abierto y la bobina como un cortocircuito
 
-__5.2__ Transforme a su forma rectangular:
+#### 5.3.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/15.png) 
+La bobina almacena corriente, mientras que el capacitor almacena voltaje.
 
-__5.3__ Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
-forma rectangular como en su forma polar.
+#### 5.4.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/16.png) 
+Ocurriría lo mismo que se observó en la práctica, debido  a que 
 
-__5.4__ Resuelva las operaciones anteriores por medio de la calculadora y compare
-resultados.
+#### 5.5.- ¿Qué son los valores eficaces de voltaje y corriente?
 
-Transforme a su forma polar:
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/31.jpg) 
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/32.jpg) 
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/33.jpg) 
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/34.jpg)
-
-Transforme a su forma rectangular:
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/35.jpg) 
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/36.jpg) 
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/37.jpg) 
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/38.jpg) 
-
-Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
-forma rectangular como en su forma polar.
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/20.png) 
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/21.png) 
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/22.png) 
-
-
-__5.5__ Tabulacion de los datos
-
-__5.5.1__ Resultados obtenidos de Transforme a su forma polar y su error porcentual:
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/17.png) 
-
-Tabla 1
-
-__5.5.2__ Resultados obtenidos de Transforme a su forma rectangular y su error porcentual:
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/18.png) 
-
-Tabla 2
-
-__5.5.3__ Resultados obtenidos de realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
-forma rectangular como en su forma polar y su error porcentual:
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/19.png) 
-
-Tabla 3
-
-
+El valor eficaz es el equivalente en DC del valor pico en la corriente alterna, esto se obtiene dividiendo el valor pico por la raíz de 2.
 
 
 
 
 ### 6.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
+ - Se tienne que tener concoimientos previos en lo que se destcaca en conocer el como funciona un generador de función con el cual se tiene que observar que botones , sqitch indician el cambio con el cula se tiene que obtner ára que genere dcha onda.
+ - Se tien que sabeer como fucniona el osciloscopio el cual dice que es lo que se tiene que leer con el cual nos permita encontrar un error en su funcionaiento.
  - Tener a la claculadora en en el modo RPD para hacer los calculos con numeros imaginarios
- - Configurar para que tenga cuatro digitos (Opcional)
+ - En el tinkercad se tiene que poner en opcion que el generador de funci{on no tinene desfase
 
  
 ### 7.	APORTACIONES
 
- - Hay grandes diferencias en calculadoras en online, pero no en calcladoras cientificas
+ - El como se lee no está claro como se escribe la lectura de un osciloscopio.
  
  
 ### 8.	CONCLUSIONES
- - Al resolver los fasores de forma anl{itica no hubo diferencias con el valor calculado con la calculadora debido a que si existe control sobre la cantidad de los numeros decimales que va a tener el operador.
+ - Las funciones que se genera en el osciloscopio son muy difernete que en el que se enuentra en el capacitor e inductor por que el conductor lo que hace es que pase mas electrones por un lado o si hay menos de una lado de la placa este empieze a dra energia con el cual este permita que no haya cambios bruscos de la fucni{on   y el inductor que ace que todas las coriiente trate de llegar hacer una corriente continua por ende nos permite visulizar otro tipo de función el cual hace que no se sinuisoidal.
+ - 
 
 
 ### 10.	BIBLIOGRAFÍA
