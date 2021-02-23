@@ -33,7 +33,7 @@
 
 Circuito 1
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/31.jpg) 
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/1.jpg) 
 
 Circuito 2
 
