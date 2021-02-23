@@ -29,8 +29,11 @@
 | 2 | Bobinas 10 µF |
 | 2 | Capacitores 100 mH |
  
+### 4. DIAGRAMA
 
-### 4.	EXPLICACIÓN
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/31.jpg) 
+
+### 5.	EXPLICACIÓN
 
 
 __5.1__ Transforme a su forma polar:
@@ -105,24 +108,24 @@ Tabla 3
 
 
 
-### 5.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+### 6.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
  - Tener a la claculadora en en el modo RPD para hacer los calculos con numeros imaginarios
  - Configurar para que tenga cuatro digitos (Opcional)
 
  
-### 6.	APORTACIONES
+### 7.	APORTACIONES
 
  - Hay grandes diferencias en calculadoras en online, pero no en calcladoras cientificas
  
  
-### 7.	CONCLUSIONES
+### 8.	CONCLUSIONES
  - Al resolver los fasores de forma anl{itica no hubo diferencias con el valor calculado con la calculadora debido a que si existe control sobre la cantidad de los numeros decimales que va a tener el operador.
 
 
-### 8.	BIBLIOGRAFÍA
+### 10.	BIBLIOGRAFÍA
 
 [1] MOLINA, A. and VEGA, F., 2021. 1.2 FASORES - Análisis de Circuitos II. [online] Sites.google.com. Available at: <https://sites.google.com/site/analisisdecircuitosupaep/senoides-y-fasores/1-2-fasores> [Accessed 9 February 2021].
 
 
-### 9.	 ANEXOS
+### 11.	 ANEXOS
